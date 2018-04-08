@@ -1,0 +1,812 @@
+2018-04-07 16:39:33.194  INFO 11468 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 11468 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-07 16:39:33.194  INFO 11468 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-07 16:39:38.428  INFO 11468 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-07 16:39:38.428  INFO 11468 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-07 16:39:38.538  INFO 11468 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-07 16:39:39.350  INFO 11468 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-07 16:39:39.366  INFO 11468 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-07 16:39:39.894  WARN 11468 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-07 16:39:40.432  WARN 11468 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-07 16:39:40.558  INFO 11468 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.678 seconds (JVM running for 8.581)
+2018-04-07 16:39:40.596  INFO 11468 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-07 16:40:08.775  INFO 11468 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 11468 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-07 16:40:08.775  INFO 11468 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-07 16:40:12.394  INFO 11468 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-07 16:40:12.410  INFO 11468 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-07 16:40:12.427  INFO 11468 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-07 16:40:12.676  INFO 11468 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-07 16:40:12.676  INFO 11468 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-07 16:40:12.846  WARN 11468 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-07 16:40:12.937  WARN 11468 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-07 16:40:13.010  INFO 11468 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.297 seconds (JVM running for 41.032)
+2018-04-07 16:40:13.931  INFO 11468 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-07 16:40:13.970  INFO 11468 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-04-07 16:44:01.401  INFO 11468 --- [RMI TCP Connection(2)-127.0.0.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-04-07 23:36:29.318  INFO 9360 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 9360 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-07 23:36:29.319  INFO 9360 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-07 23:36:35.335  INFO 9360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-07 23:36:35.336  INFO 9360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-07 23:36:35.422  INFO 9360 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-07 23:36:36.276  INFO 9360 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-07 23:36:36.287  INFO 9360 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-07 23:36:36.792  WARN 9360 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-07 23:36:37.277  WARN 9360 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-07 23:36:37.393  INFO 9360 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 8.528 seconds (JVM running for 9.64)
+2018-04-07 23:36:41.841  INFO 9360 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 10:23:22.208  INFO 7492 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 7492 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 10:23:22.210  INFO 7492 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 10:23:27.962  INFO 7492 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 10:23:27.963  INFO 7492 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 10:23:28.061  INFO 7492 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 10:23:28.956  INFO 7492 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 10:23:29.009  INFO 7492 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 10:23:29.798  WARN 7492 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 10:23:30.370  WARN 7492 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 10:23:30.498  INFO 7492 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 8.655 seconds (JVM running for 9.76)
+2018-04-08 10:24:51.706  INFO 7492 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 10:26:02.685  INFO 7492 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 7492 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 10:26:02.686  INFO 7492 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 10:26:06.424  INFO 7492 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 10:26:06.424  INFO 7492 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 10:26:06.445  INFO 7492 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 10:26:06.723  INFO 7492 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 10:26:06.727  INFO 7492 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 10:26:06.926  WARN 7492 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 10:26:07.014  WARN 7492 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 10:26:07.079  INFO 7492 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.465 seconds (JVM running for 166.503)
+2018-04-08 10:26:10.153  INFO 7492 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 10:46:00.994  INFO 2148 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 2148 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 10:46:00.995  INFO 2148 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 10:46:06.336  INFO 2148 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 10:46:06.337  INFO 2148 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 10:46:06.435  INFO 2148 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 10:46:07.299  INFO 2148 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 10:46:07.300  INFO 2148 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 10:46:07.767  WARN 2148 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 10:46:08.241  WARN 2148 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 10:46:08.355  INFO 2148 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.655 seconds (JVM running for 8.52)
+2018-04-08 10:46:20.965  INFO 2148 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:22:10.720  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10648 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:22:10.720  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:22:15.803  INFO 10648 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:22:15.803  INFO 10648 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:22:15.882  INFO 10648 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:22:16.735  INFO 10648 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:22:16.735  INFO 10648 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:22:17.171  WARN 10648 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:22:17.628  WARN 10648 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:22:17.738  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.322 seconds (JVM running for 8.148)
+2018-04-08 11:22:28.656  INFO 10648 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:22:35.743  INFO 10648 --- [http-nio-8080-exec-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-04-08 11:22:56.681  INFO 10648 --- [Thread-8] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-04-08 11:22:57.236  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10648 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:22:57.236  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:23:01.159  INFO 10648 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:23:01.159  INFO 10648 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:23:01.192  INFO 10648 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:23:01.537  INFO 10648 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:23:01.537  INFO 10648 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:23:01.663  WARN 10648 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:23:01.743  WARN 10648 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:23:01.821  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.647 seconds (JVM running for 52.237)
+2018-04-08 11:23:03.175  INFO 10648 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:23:03.186  INFO 10648 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-2} inited
+2018-04-08 11:24:04.118  INFO 10648 --- [Thread-12] com.alibaba.druid.pool.DruidDataSource   : {dataSource-2} closed
+2018-04-08 11:24:04.659  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10648 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:24:04.659  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:24:08.189  INFO 10648 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:24:08.189  INFO 10648 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:24:08.204  INFO 10648 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:24:08.551  INFO 10648 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:24:08.551  INFO 10648 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:24:08.679  WARN 10648 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:24:08.742  WARN 10648 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:24:08.820  INFO 10648 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.218 seconds (JVM running for 119.234)
+2018-04-08 11:28:34.126  INFO 7600 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 7600 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:28:34.126  INFO 7600 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:28:39.062  INFO 7600 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:28:39.062  INFO 7600 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:28:39.156  INFO 7600 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:28:39.988  INFO 7600 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:28:39.988  INFO 7600 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:28:40.434  WARN 7600 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:28:40.942  WARN 7600 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:28:41.083  INFO 7600 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.239 seconds (JVM running for 8.07)
+2018-04-08 11:28:57.559  INFO 7600 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:28:57.634 ERROR 7600 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.gui.util.RedisUtil.setValue(RedisUtil.java:20) ~[classes/:na]
+	at com.gui.service.impl.UserServiceImpl.selectByPrimaryKey(UserServiceImpl.java:43) ~[classes/:na]
+	at com.gui.Controller.UserController.getUser(UserController.java:39) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123) ~[druid-1.0.11.jar:1.0.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_161]
+
+2018-04-08 11:30:47.806  INFO 7600 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 7600 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:30:47.806  INFO 7600 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:30:51.423  INFO 7600 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:30:51.423  INFO 7600 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:30:51.454  INFO 7600 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:30:51.736  INFO 7600 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:30:51.736  INFO 7600 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:30:51.876  WARN 7600 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:30:51.954  WARN 7600 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:30:52.017  INFO 7600 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.274 seconds (JVM running for 138.976)
+2018-04-08 11:31:07.034  INFO 10012 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10012 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:31:07.034  INFO 10012 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:31:11.969  INFO 10012 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:31:11.969  INFO 10012 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:31:12.048  INFO 10012 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:31:12.875  INFO 10012 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:31:12.875  INFO 10012 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:31:13.312  WARN 10012 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:31:13.798  WARN 10012 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:31:13.907  INFO 10012 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.154 seconds (JVM running for 7.953)
+2018-04-08 11:31:25.169  INFO 10012 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:31:25.241 ERROR 10012 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.gui.util.RedisUtil.setValue(RedisUtil.java:20) ~[classes/:na]
+	at com.gui.service.impl.UserServiceImpl.selectByPrimaryKey(UserServiceImpl.java:43) ~[classes/:na]
+	at com.gui.Controller.UserController.getUser(UserController.java:39) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123) ~[druid-1.0.11.jar:1.0.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_161]
+
+2018-04-08 11:33:27.272  INFO 3756 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 3756 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:33:27.272  INFO 3756 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:33:32.513  INFO 3756 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:33:32.513  INFO 3756 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:33:32.595  INFO 3756 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:33:33.448  INFO 3756 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:33:33.448  INFO 3756 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:33:33.921  WARN 3756 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:33:34.384  WARN 3756 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:33:34.487  INFO 3756 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.518 seconds (JVM running for 8.312)
+2018-04-08 11:33:34.710  INFO 3756 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:33:34.771 ERROR 3756 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.gui.util.RedisUtil.setValue(RedisUtil.java:30) ~[classes/:na]
+	at com.gui.service.impl.UserServiceImpl.selectByPrimaryKey(UserServiceImpl.java:43) ~[classes/:na]
+	at com.gui.Controller.UserController.getUser(UserController.java:39) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123) ~[druid-1.0.11.jar:1.0.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_161]
+
+2018-04-08 11:38:07.051  INFO 7756 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 7756 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:38:07.051  INFO 7756 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:38:10.704  INFO 7756 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:38:10.704  INFO 7756 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:38:10.783  INFO 7756 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:38:12.064  WARN 7756 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:38:12.534  WARN 7756 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:38:12.643  INFO 7756 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 5.905 seconds (JVM running for 6.755)
+2018-04-08 11:38:18.339  INFO 7756 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:40:22.399  INFO 7756 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 7756 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:40:22.399  INFO 7756 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:40:37.554  INFO 11024 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 11024 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:40:37.554  INFO 11024 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:40:41.184  INFO 11024 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:40:41.184  INFO 11024 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:40:41.263  INFO 11024 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:40:42.496  WARN 11024 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:40:42.957  WARN 11024 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:40:43.097  INFO 11024 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 5.84 seconds (JVM running for 6.625)
+2018-04-08 11:40:51.164  INFO 11024 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:41:49.792  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10636 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:41:49.792  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:41:54.663  INFO 10636 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:41:54.663  INFO 10636 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:41:54.758  INFO 10636 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:41:55.569  INFO 10636 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:41:55.569  INFO 10636 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:41:55.990  WARN 10636 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:41:56.444  WARN 10636 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:41:56.553  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.075 seconds (JVM running for 7.855)
+2018-04-08 11:42:00.676  INFO 10636 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:42:00.748 ERROR 10636 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.gui.util.RedisUtil.setValue(RedisUtil.java:23) ~[classes/:na]
+	at com.gui.service.impl.UserServiceImpl.selectByPrimaryKey(UserServiceImpl.java:43) ~[classes/:na]
+	at com.gui.Controller.UserController.getUser(UserController.java:39) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123) ~[druid-1.0.11.jar:1.0.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_161]
+
+2018-04-08 11:42:20.686  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10636 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:42:20.686  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:42:24.364  INFO 10636 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:42:24.365  INFO 10636 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:42:24.385  INFO 10636 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:42:24.672  INFO 10636 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 11:42:24.673  INFO 10636 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 11:42:24.814  WARN 10636 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:42:24.892  WARN 10636 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:42:24.971  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.347 seconds (JVM running for 36.265)
+2018-04-08 11:42:25.098  INFO 10636 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 11:42:25.137  INFO 10636 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-04-08 11:42:39.552  INFO 10636 --- [Thread-12] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-04-08 11:42:40.126  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10636 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 11:42:40.126  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 11:42:42.615  INFO 10636 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 11:42:42.615  INFO 10636 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 11:42:42.634  INFO 10636 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 11:42:42.984  WARN 10636 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 11:42:43.042  WARN 10636 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 11:42:43.109  INFO 10636 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 3.045 seconds (JVM running for 54.397)
+2018-04-08 11:42:43.292  INFO 10636 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 13:45:31.489  INFO 6512 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 6512 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 13:45:31.490  INFO 6512 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 13:45:35.758  INFO 6512 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 13:45:35.759  INFO 6512 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 13:45:35.849  INFO 6512 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-08 13:45:37.126  WARN 6512 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 13:45:37.608  WARN 6512 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 13:45:37.725  INFO 6512 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 6.573 seconds (JVM running for 7.569)
+2018-04-08 13:45:58.430  INFO 6512 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 13:47:04.455  INFO 6512 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 6512 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 13:47:04.455  INFO 6512 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 13:47:07.011  INFO 6512 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 13:47:07.012  INFO 6512 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 13:47:07.031  INFO 6512 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 13:47:07.391  WARN 6512 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 13:47:07.466  WARN 6512 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 13:47:07.536  INFO 6512 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 3.148 seconds (JVM running for 97.508)
+2018-04-08 13:47:18.772  INFO 6512 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 13:47:41.879  INFO 11056 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 11056 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 13:47:41.880  INFO 11056 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 13:47:45.486  INFO 11056 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 13:47:45.487  INFO 11056 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 13:47:45.567  INFO 11056 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 13:47:46.872  WARN 11056 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 13:47:47.333  WARN 11056 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 13:47:47.445  INFO 11056 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 5.852 seconds (JVM running for 6.829)
+2018-04-08 13:47:58.232  INFO 11056 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 13:48:11.520  INFO 11056 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 11056 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 13:48:11.520  INFO 11056 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 13:48:15.437  INFO 11056 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 13:48:15.438  INFO 11056 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 13:48:15.457  INFO 11056 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 13:48:15.814  INFO 11056 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 13:48:15.817  INFO 11056 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 13:48:15.976  WARN 11056 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 13:48:16.060  WARN 11056 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 13:48:16.140  INFO 11056 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.689 seconds (JVM running for 35.573)
+2018-04-08 13:48:18.575  INFO 11056 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 13:48:18.613  INFO 11056 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-04-08 13:50:43.848  INFO 11056 --- [Thread-12] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-04-08 13:52:34.493  INFO 10972 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10972 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 13:52:34.494  INFO 10972 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 13:52:38.290  INFO 10972 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 13:52:38.291  INFO 10972 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 13:52:38.373  INFO 10972 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 13:52:39.608  WARN 10972 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 13:52:40.054  WARN 10972 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 13:52:40.161  INFO 10972 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 5.958 seconds (JVM running for 6.764)
+2018-04-08 13:52:46.542  INFO 10972 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 13:52:46.634  INFO 10972 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-04-08 13:52:54.764  INFO 10972 --- [RMI TCP Connection(2)-127.0.0.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-04-08 13:53:24.306  INFO 10704 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10704 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 13:53:24.307  INFO 10704 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 13:53:27.973  INFO 10704 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 13:53:27.974  INFO 10704 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 13:53:28.055  INFO 10704 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 13:53:29.447  WARN 10704 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 13:53:29.961  WARN 10704 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 13:53:30.073  INFO 10704 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 6.06 seconds (JVM running for 6.93)
+2018-04-08 13:53:38.410  INFO 10704 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 13:53:38.476 ERROR 10704 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[.[dispatcherServlet]      : Servlet.service() for servlet [dispatcherServlet] in context with path [/springBootTest] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.gui.util.RedisUtil.setValue(RedisUtil.java:23) ~[classes/:na]
+	at com.gui.service.impl.UserServiceImpl.selectByPrimaryKey(UserServiceImpl.java:43) ~[classes/:na]
+	at com.gui.Controller.UserController.getUser(UserController.java:39) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123) ~[druid-1.0.11.jar:1.0.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_161]
+
+2018-04-08 14:09:43.417  INFO 11168 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 11168 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:09:43.417  INFO 11168 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:09:47.195  INFO 11168 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:09:47.195  INFO 11168 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:09:47.274  INFO 11168 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:09:48.536  WARN 11168 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:09:48.977  WARN 11168 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:09:49.072  INFO 11168 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 5.938 seconds (JVM running for 6.896)
+2018-04-08 14:09:53.092  INFO 11168 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 14:09:53.149 ERROR 11168 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[.[dispatcherServlet]      : Servlet.service() for servlet [dispatcherServlet] in context with path [/springBootTest] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.gui.service.impl.UserServiceImpl.selectByPrimaryKey(UserServiceImpl.java:43) ~[classes/:na]
+	at com.gui.Controller.UserController.getUser(UserController.java:39) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123) ~[druid-1.0.11.jar:1.0.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_161]
+
+2018-04-08 14:11:31.510  INFO 11168 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 11168 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:11:31.510  INFO 11168 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:11:39.463  INFO 10440 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10440 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:11:39.463  INFO 10440 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:11:43.138  INFO 10440 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:11:43.138  INFO 10440 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:11:43.263  INFO 10440 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:11:44.501  WARN 10440 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:11:44.985  WARN 10440 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:11:45.110  INFO 10440 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 5.945 seconds (JVM running for 6.778)
+2018-04-08 14:11:51.347  INFO 10440 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 14:11:51.415 ERROR 10440 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[.[dispatcherServlet]      : Servlet.service() for servlet [dispatcherServlet] in context with path [/springBootTest] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.gui.util.RedisUtil.setValue(RedisUtil.java:34) ~[classes/:na]
+	at com.gui.service.impl.UserServiceImpl.selectByPrimaryKey(UserServiceImpl.java:43) ~[classes/:na]
+	at com.gui.Controller.UserController.getUser(UserController.java:39) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_161]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) ~[spring-webmvc-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123) ~[druid-1.0.11.jar:1.0.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) ~[tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_161]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.16.jar:8.5.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_161]
+
+2018-04-08 14:14:25.550  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10852 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:14:25.566  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:14:30.670  INFO 10852 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:14:30.670  INFO 10852 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:14:30.766  INFO 10852 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:14:31.601  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 14:14:31.602  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 14:14:32.028  WARN 10852 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:14:32.497  WARN 10852 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:14:32.590  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 7.329 seconds (JVM running for 8.171)
+2018-04-08 14:14:41.992  INFO 10852 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 14:14:42.140  INFO 10852 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-04-08 14:15:49.453  INFO 10852 --- [Thread-8] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-04-08 14:15:49.983  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10852 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:15:49.983  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:15:54.059  INFO 10852 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:15:54.074  INFO 10852 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:15:54.093  INFO 10852 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:15:54.359  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 14:15:54.359  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 14:15:54.500  WARN 10852 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:15:54.582  WARN 10852 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:15:54.645  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.724 seconds (JVM running for 90.226)
+2018-04-08 14:16:10.688  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10852 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:16:10.688  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:16:14.362  INFO 10852 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:16:14.362  INFO 10852 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:16:14.378  INFO 10852 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:16:14.629  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 14:16:14.629  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 14:16:14.756  WARN 10852 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:16:14.835  WARN 10852 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:16:14.901  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.256 seconds (JVM running for 110.489)
+2018-04-08 14:16:26.926  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10852 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:16:26.926  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:16:30.449  INFO 10852 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:16:30.449  INFO 10852 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:16:30.480  INFO 10852 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:16:30.770  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 14:16:30.770  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 14:16:30.898  WARN 10852 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:16:30.977  WARN 10852 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:16:31.039  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.196 seconds (JVM running for 126.628)
+2018-04-08 14:16:33.310  INFO 10852 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 14:16:33.322  INFO 10852 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-2} inited
+2018-04-08 14:17:20.090  INFO 10852 --- [Thread-28] com.alibaba.druid.pool.DruidDataSource   : {dataSource-2} closed
+2018-04-08 14:17:20.443  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10852 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:17:20.443  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:17:24.196  INFO 10852 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:17:24.197  INFO 10852 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:17:24.216  INFO 10852 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:17:24.500  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 14:17:24.501  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 14:17:24.611  WARN 10852 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:17:24.690  WARN 10852 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:17:24.752  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.358 seconds (JVM running for 180.344)
+2018-04-08 14:17:24.785  INFO 10852 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 14:17:24.801  INFO 10852 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-3} inited
+2018-04-08 14:17:37.701  INFO 10852 --- [Thread-36] com.alibaba.druid.pool.DruidDataSource   : {dataSource-3} closed
+2018-04-08 14:17:38.149  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10852 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:17:38.149  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:17:41.981  INFO 10852 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:17:41.982  INFO 10852 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:17:42.000  INFO 10852 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:17:42.292  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 14:17:42.293  INFO 10852 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 14:17:42.427  WARN 10852 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:17:42.503  WARN 10852 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:17:42.564  INFO 10852 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 4.478 seconds (JVM running for 198.162)
+2018-04-08 14:17:42.717  INFO 10852 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 14:17:42.738  INFO 10852 --- [http-nio-8080-exec-3] com.alibaba.druid.pool.DruidDataSource   : {dataSource-4} inited
+2018-04-08 14:19:52.332  INFO 10852 --- [RMI TCP Connection(2)-127.0.0.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-4} closed
+2018-04-08 14:21:17.890  INFO 10832 --- [restartedMain] com.SpringBootTestApplication            : Starting SpringBootTestApplication on ZHZEYWAP1YWS3L4 with PID 10832 (D:\eclipse-workspace2\springBootTest\target\classes started by Administrator in D:\eclipse-workspace2\springBootTest)
+2018-04-08 14:21:17.891  INFO 10832 --- [restartedMain] com.SpringBootTestApplication            : No active profile set, falling back to default profiles: default
+2018-04-08 14:21:23.485  INFO 10832 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-08 14:21:23.486  INFO 10832 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-04-08 14:21:23.580  INFO 10832 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring embedded WebApplicationContext
+2018-04-08 14:21:24.470  INFO 10832 --- [restartedMain] com.config.RedisConfig                   : redis地址：127.0.0.1:6379
+2018-04-08 14:21:24.472  INFO 10832 --- [restartedMain] com.config.RedisConfig                   : jedisPool注入成功！！
+2018-04-08 14:21:24.951  WARN 10832 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2018-04-08 14:21:25.462  WARN 10832 --- [restartedMain] arterDeprecationWarningAutoConfiguration : spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2018-04-08 14:21:25.583  INFO 10832 --- [restartedMain] com.SpringBootTestApplication            : Started SpringBootTestApplication in 8.003 seconds (JVM running for 8.857)
+2018-04-08 14:21:40.392  INFO 10832 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/springBootTest]          : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-08 14:21:40.521  INFO 10832 --- [http-nio-8080-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-04-08 14:22:02.744  INFO 10832 --- [RMI TCP Connection(2)-127.0.0.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
