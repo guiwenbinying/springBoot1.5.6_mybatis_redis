@@ -11,6 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class SpringBootTestApplication {
 
 	public static void main(String[] args) {
+		//springboot的入口文件
 		SpringApplication.run(SpringBootTestApplication.class, args);
 	}
 }
